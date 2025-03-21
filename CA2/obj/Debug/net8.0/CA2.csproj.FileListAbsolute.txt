@@ -1,0 +1,14 @@
+C:\Users\cotym\PP\CA2\CA2\bin\Debug\net8.0\CA2.exe
+C:\Users\cotym\PP\CA2\CA2\bin\Debug\net8.0\CA2.deps.json
+C:\Users\cotym\PP\CA2\CA2\bin\Debug\net8.0\CA2.runtimeconfig.json
+C:\Users\cotym\PP\CA2\CA2\bin\Debug\net8.0\CA2.dll
+C:\Users\cotym\PP\CA2\CA2\bin\Debug\net8.0\CA2.pdb
+C:\Users\cotym\PP\CA2\CA2\obj\Debug\net8.0\CA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotym\PP\CA2\CA2\obj\Debug\net8.0\CA2.AssemblyInfoInputs.cache
+C:\Users\cotym\PP\CA2\CA2\obj\Debug\net8.0\CA2.AssemblyInfo.cs
+C:\Users\cotym\PP\CA2\CA2\obj\Debug\net8.0\CA2.csproj.CoreCompileInputs.cache
+C:\Users\cotym\PP\CA2\CA2\obj\Debug\net8.0\CA2.dll
+C:\Users\cotym\PP\CA2\CA2\obj\Debug\net8.0\refint\CA2.dll
+C:\Users\cotym\PP\CA2\CA2\obj\Debug\net8.0\CA2.pdb
+C:\Users\cotym\PP\CA2\CA2\obj\Debug\net8.0\CA2.genruntimeconfig.cache
+C:\Users\cotym\PP\CA2\CA2\obj\Debug\net8.0\ref\CA2.dll
